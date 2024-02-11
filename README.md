@@ -7,7 +7,7 @@ Determining the most effective advertising platform for driving sales involving 
 ## Objective
 Use machine learning techniques to analyze historical data on ad spend and sales performance to predict future sales and identify which platform is more influential in driving sales, aiding in strategic decision-making and optimizing advertising budget allocation.
 
-
+## Stages Progress:
 ### Part 1:
 - Problem statement and Objective defined.
 - Data has been uploaded in csv format called Advertising.csv
@@ -18,4 +18,4 @@ Use machine learning techniques to analyze historical data on ad spend and sales
 
 ### Part 3:
 - Model to be used for Training, testing and making prediction is Multiple Linear Regression.
-- Multiple Linear Regression: Because there are multiple predictors that could potentially influence the dependent variable which are (TV, Radio and Newspaper) which leads us to a more comprehensive understanding of the relationship between the predictors and the outcome variable.
+- Multiple Linear Regression: Because there are multiple predictors which are (TV, Radio and Newspaper) that could potentially influence the dependent variable and leads us to a more comprehensive understanding of the relationship between the predictors and the outcome variable.
