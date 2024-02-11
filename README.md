@@ -15,3 +15,7 @@ Use machine learning techniques to analyze historical data on ad spend and sales
 
 ### Part 2:
 - Data is clean: No missing values or Errors identified.
+
+### Part 3:
+- Model to be used for Training, testing and making prediction is Multiple Linear Regression.
+- Multiple Linear Regression: Because there are multiple predictors that could potentially influence the dependent variable which are (TV, Radio and Newspaper) which leads us to a more comprehensive understanding of the relationship between the predictors and the outcome variable.
