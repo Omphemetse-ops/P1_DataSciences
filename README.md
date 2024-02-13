@@ -77,8 +77,3 @@ Additionally, our analysis suggests that spending less on newspaper advertising 
 
 ### Metrics
 - The performance metrics of the model on the training data resulted in a score of 0.8973073018699194, while on the testing data, the score increased to 0.9130003152798273. The higher metric score on the testing data indicates that the model generalizes well and performs better on unseen data. This improvement in performance from training to testing data suggests that the model has robust predictive capabilities and is not overfitting the training data.
-
-### Training Set on Predicted sales vs Actual Sales
-=======
-- Multiple Linear Regression: Because there are multiple predictors which are (TV, Radio and Newspaper) that could potentially influence the dependent variable and leads us to a more comprehensive understanding of the relationship between the predictors and the outcome variable.
->>>>>>> ddc63b7ec79a5506f9424bd82bae9caf4777e720
